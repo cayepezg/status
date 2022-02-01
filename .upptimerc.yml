@@ -20,8 +20,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status MR
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub. ---- $OWNER/$REPO "
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Status de Apps MR, DEU y NT** By Cyepez"
+  introMessage: Esta página muestra los resultados del constante monitoreo de las aplicaciones servidas por CX.
   navbar:
     - title: Status
       href: /
