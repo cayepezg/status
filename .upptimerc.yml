@@ -29,7 +29,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status MR
-  introTitle: "**Estatus de Aplicaciones monitoreadas por CX** By Cyepez"
+  introTitle: "**Estatus de Aplicaciones monitoreadas por CX**"
   introMessage: Esta página muestra los resultados del constante monitoreo de las aplicaciones servidas por CX.
   navbar:
     - title: Status
