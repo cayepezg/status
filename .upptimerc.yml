@@ -5,10 +5,13 @@ repo: status # The name of this repository
 sites:
   - name: MisRevistas
     url: https://www.misrevistas.com
+    icon: https://www.misrevistas.com/img/favicon.ico
   - name: ElUniversal
     url: https://www.eluniversal.com
+    icon: https://www.eluniversal.com/img/favicon.ico
   - name: Notitarde
     url: https://www.notitarde.com.ve
+    icon: https://www.notitarde.com/img/favico.jpg
 
 assignees:
   - cayepezg
