@@ -4,18 +4,20 @@
     "url": "https://www.misrevistas.com",
     "icon": "https://www.misrevistas.com/img/favicon.ico",
     "slug": "mis-revistas",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 405,
     "timeDay": 405,
     "timeWeek": 405,
     "timeMonth": 405,
     "timeYear": 405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "ElUniversal",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 412,
-    "timeWeek": 412,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "time": 394,
+    "timeDay": 394,
+    "timeWeek": 394,
+    "timeMonth": 394,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "time": 474,
+    "timeDay": 474,
+    "timeWeek": 474,
+    "timeMonth": 474,
+    "timeYear": 474,
     "dailyMinutesDown": {}
   }
 ]
