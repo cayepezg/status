@@ -1,6 +1,6 @@
 [
   {
-    "name": "MisRevistas",
+    "name": "Mis Revistas",
     "url": "https://www.misrevistas.com",
     "icon": "https://www.misrevistas.com/img/favicon.ico",
     "slug": "mis-revistas",
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "ElUniversal",
+    "name": "El Universal",
     "url": "https://www.eluniversal.com",
     "icon": "https://www.eluniversal.com/img/favicon.ico",
     "slug": "el-universal",
@@ -28,11 +28,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 443,
-    "timeWeek": 443,
-    "timeMonth": 443,
-    "timeYear": 443,
+    "time": 426,
+    "timeDay": 426,
+    "timeWeek": 426,
+    "timeMonth": 426,
+    "timeYear": 426,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Estampas",
+    "url": "https://www.estampas.com",
+    "icon": "https://www.estampas.com/images/favicon.ico",
+    "slug": "estampas",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2010,
+    "timeDay": 2010,
+    "timeWeek": 2010,
+    "timeMonth": 2010,
+    "timeYear": 2010,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 493,
-    "timeWeek": 493,
-    "timeMonth": 493,
-    "timeYear": 493,
+    "time": 475,
+    "timeDay": 475,
+    "timeWeek": 475,
+    "timeMonth": 475,
+    "timeYear": 475,
     "dailyMinutesDown": {}
   }
 ]
