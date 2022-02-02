@@ -3,12 +3,15 @@ owner: cayepezg # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
-  - name: MisRevistas
+  - name: Mis Revistas
     url: https://www.misrevistas.com
     icon: https://www.misrevistas.com/img/favicon.ico
-  - name: ElUniversal
+  - name: El Universal
     url: https://www.eluniversal.com
     icon: https://www.eluniversal.com/img/favicon.ico
+  - name: Estampas
+    url: https://www.estampas.com
+    icon: https://www.estampas.com/images/favicon.ico
   - name: Notitarde
     url: https://www.notitarde.com.ve
     icon: https://www.notitarde.com/img/favico.jpg
