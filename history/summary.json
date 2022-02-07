@@ -58,7 +58,7 @@
     "url": "https://www.notitarde.com.ve",
     "icon": "https://www.notitarde.com/img/favico.jpg",
     "slug": "notitarde",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 453,
     "timeMonth": 453,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-07": 0
+    }
   }
 ]
