@@ -25,9 +25,9 @@
     "url": "https://www.eluniversal.com",
     "icon": "https://www.eluniversal.com/img/favicon.ico",
     "slug": "el-universal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,16 +36,18 @@
     "timeWeek": 375,
     "timeMonth": 375,
     "timeYear": 390,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "Estampas",
     "url": "https://www.estampas.com",
     "icon": "https://www.estampas.com/images/favicon.ico",
     "slug": "estampas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -55,6 +57,7 @@
     "timeMonth": 376,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2022-03-30": 0,
       "2022-02-07": 104
     }
   },
