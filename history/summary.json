@@ -4,9 +4,9 @@
     "url": "https://www.misrevistas.com",
     "icon": "https://www.misrevistas.com/img/favicon.ico",
     "slug": "mis-revistas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
@@ -16,6 +16,7 @@
     "timeMonth": 514,
     "timeYear": 1085,
     "dailyMinutesDown": {
+      "2023-04-14": 0,
       "2023-01-20": 19,
       "2023-01-01": 38,
       "2022-12-11": 106,
@@ -83,7 +84,7 @@
     "timeDay": 620,
     "timeWeek": 417,
     "timeMonth": 421,
-    "timeYear": 750,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2023-03-25": 56,
       "2023-03-13": 29,
