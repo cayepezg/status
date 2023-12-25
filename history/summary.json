@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 944,
-    "timeDay": 374,
-    "timeWeek": 373,
-    "timeMonth": 423,
+    "timeDay": 597,
+    "timeWeek": 419,
+    "timeMonth": 421,
     "timeYear": 886,
     "dailyMinutesDown": {
       "2023-10-30": 41,
@@ -31,16 +31,16 @@
     "icon": "https://www.eluniversal.com/img/favicon.ico",
     "slug": "el-universal",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 557,
-    "timeDay": 236,
-    "timeWeek": 315,
-    "timeMonth": 413,
-    "timeYear": 560,
+    "time": 558,
+    "timeDay": 673,
+    "timeWeek": 380,
+    "timeMonth": 410,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2023-11-08": 96,
       "2023-10-21": 69,
@@ -50,8 +50,7 @@
       "2023-03-25": 56,
       "2023-03-13": 26,
       "2023-03-02": 143,
-      "2023-02-01": 153,
-      "2022-12-25": 40
+      "2023-02-01": 153
     }
   },
   {
@@ -66,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 625,
-    "timeDay": 254,
-    "timeWeek": 265,
-    "timeMonth": 349,
+    "timeDay": 526,
+    "timeWeek": 315,
+    "timeMonth": 348,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2023-11-08": 95,
@@ -80,8 +79,7 @@
       "2023-03-25": 56,
       "2023-03-13": 29,
       "2023-03-02": 142,
-      "2023-02-01": 149,
-      "2022-12-25": 40
+      "2023-02-01": 149
     }
   },
   {
@@ -95,10 +93,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 911,
-    "timeDay": 434,
-    "timeWeek": 450,
-    "timeMonth": 839,
+    "time": 912,
+    "timeDay": 949,
+    "timeWeek": 540,
+    "timeMonth": 838,
     "timeYear": 835,
     "dailyMinutesDown": {
       "2023-10-21": 20,
