@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.89%",
-    "time": 858,
-    "timeDay": 409,
-    "timeWeek": 426,
-    "timeMonth": 503,
-    "timeYear": 824,
+    "time": 857,
+    "timeDay": 584,
+    "timeWeek": 469,
+    "timeMonth": 512,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2024-02-26": 442,
       "2023-10-30": 41,
@@ -32,14 +32,14 @@
     "status": "up",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.09%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.75%",
     "time": 568,
-    "timeDay": 410,
-    "timeWeek": 519,
-    "timeMonth": 654,
-    "timeYear": 534,
+    "timeDay": 778,
+    "timeWeek": 552,
+    "timeMonth": 667,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2024-03-17": 95,
       "2024-03-16": 98,
@@ -48,8 +48,7 @@
       "2023-10-21": 69,
       "2023-09-21": 235,
       "2023-07-24": 380,
-      "2023-06-23": 25,
-      "2023-03-25": 56
+      "2023-06-23": 25
     }
   },
   {
@@ -60,14 +59,14 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.09%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.73%",
     "time": 550,
-    "timeDay": 271,
-    "timeWeek": 369,
-    "timeMonth": 375,
-    "timeYear": 537,
+    "timeDay": 499,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2024-03-17": 95,
       "2024-03-16": 98,
@@ -77,8 +76,7 @@
       "2023-10-21": 122,
       "2023-09-21": 235,
       "2023-07-24": 374,
-      "2023-06-23": 25,
-      "2023-03-25": 56
+      "2023-06-23": 25
     }
   },
   {
@@ -93,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 826,
-    "timeDay": 553,
-    "timeWeek": 603,
-    "timeMonth": 564,
-    "timeYear": 768,
+    "timeDay": 829,
+    "timeWeek": 656,
+    "timeMonth": 587,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2023-10-21": 20,
       "2023-04-05": 59
