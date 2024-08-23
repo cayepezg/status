@@ -15,6 +15,9 @@ sites:
   - name: Notitarde
     url: https://www.notitarde.com.ve
     icon: https://www.notitarde.com/img/favico.jpg
+  - name: Globovision
+    url: https://www.globovision.com
+    icon: https://www.globovision.com/favicon.ico
 
 assignees:
   - cayepezg
