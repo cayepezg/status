@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 721,
-    "timeDay": 395,
-    "timeWeek": 423,
-    "timeMonth": 463,
-    "timeYear": 430,
+    "timeDay": 322,
+    "timeWeek": 404,
+    "timeMonth": 457,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2024-02-26": 442
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 809,
-    "timeDay": 443,
-    "timeWeek": 484,
-    "timeMonth": 511,
-    "timeYear": 876,
+    "timeDay": 414,
+    "timeWeek": 473,
+    "timeMonth": 507,
+    "timeYear": 874,
     "dailyMinutesDown": {
       "2024-08-21": 47,
       "2024-06-09": 359,
@@ -42,33 +42,6 @@
       "2024-03-16": 98,
       "2024-01-08": 252,
       "2023-11-08": 96
-    }
-  },
-  {
-    "name": "Estampas",
-    "url": "https://www.estampas.com",
-    "icon": "https://www.estampas.com/images/favicon.ico",
-    "slug": "estampas",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "87.99%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.84%",
-    "time": 624,
-    "timeDay": 1044,
-    "timeWeek": 1216,
-    "timeMonth": 1697,
-    "timeYear": 585,
-    "dailyMinutesDown": {
-      "2024-11-02": 133,
-      "2024-11-01": 39,
-      "2024-08-22": 51,
-      "2024-08-21": 64,
-      "2024-03-17": 95,
-      "2024-03-16": 98,
-      "2024-01-08": 251,
-      "2023-11-08": 95
     }
   },
   {
@@ -82,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 652,
-    "timeDay": 472,
-    "timeWeek": 483,
-    "timeMonth": 570,
-    "timeYear": 600,
+    "time": 651,
+    "timeDay": 427,
+    "timeWeek": 470,
+    "timeMonth": 564,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2024-05-05": 18,
       "2024-03-29": 199
@@ -103,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 934,
-    "timeDay": 990,
-    "timeWeek": 504,
-    "timeMonth": 382,
-    "timeYear": 934,
+    "time": 935,
+    "timeDay": 1011,
+    "timeWeek": 570,
+    "timeMonth": 402,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2024-08-30": 20,
       "2024-08-26": 95
