@@ -9,9 +9,9 @@ sites:
   - name: El Universal
     url: https://www.eluniversal.com
     icon: https://www.eluniversal.com/img/favicon.ico
-  - name: Estampas
-    url: https://www.estampas.com
-    icon: https://www.estampas.com/images/favicon.ico
+  # - name: Estampas
+  #   url: https://www.estampas.com
+  #   icon: https://www.estampas.com/images/favicon.ico
   - name: Notitarde
     url: https://www.notitarde.com.ve
     icon: https://www.notitarde.com/img/favico.jpg
