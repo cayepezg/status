@@ -4,18 +4,20 @@
     "url": "https://www.misrevistas.com",
     "icon": "https://www.misrevistas.com/img/favicon.ico",
     "slug": "mis-revistas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 447,
+    "time": 446,
     "timeDay": 603,
     "timeWeek": 612,
     "timeMonth": 478,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   },
   {
     "name": "El Universal",
