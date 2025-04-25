@@ -4,19 +4,19 @@
     "url": "https://www.misrevistas.com",
     "icon": "https://www.misrevistas.com/img/favicon.ico",
     "slug": "mis-revistas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 603,
-    "timeWeek": 612,
-    "timeMonth": 478,
-    "timeYear": 444,
+    "time": 447,
+    "timeDay": 664,
+    "timeWeek": 626,
+    "timeMonth": 485,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2025-04-25": 0
+      "2025-04-25": 5
     }
   },
   {
