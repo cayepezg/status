@@ -4,9 +4,9 @@
     "url": "https://www.misrevistas.com",
     "icon": "https://www.misrevistas.com/img/favicon.ico",
     "slug": "mis-revistas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 438,
     "timeYear": 476,
     "dailyMinutesDown": {
+      "2025-07-09": 0,
       "2025-06-18": 131,
       "2025-05-18": 81,
       "2025-05-17": 60
